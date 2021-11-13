@@ -1,0 +1,37 @@
+/* * body section */
+body {
+	font-size: 30px;
+	padding: 10px;
+}
+/* * general section */
+h1, span {
+	color: red;
+}
+h2 {
+	background-color: green;
+	color: #fff;
+	padding: 10px;
+}
+input, button {
+	font-size: 25px;
+}
+ul{
+	padding-left: 60px;
+}
+li {
+	border: 2px solid;
+}
+/* * header section */
+.cube {
+	background-color: blue;
+	color: #fff;
+	width: 190px;
+	margin: 0px 0px 200px;
+}
+/* * section two */
+.h2_section2 {
+	padding: 90px;
+}
+.p1_section2 {
+	padding-left: 195px;
+}
